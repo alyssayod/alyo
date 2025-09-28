@@ -1,6 +1,8 @@
 # Alyo
-### Det här är min första Github repository
+### Det här är mitt första Github repository
 
 - Skapa ett konto i Github
-- Skapa en ny repository från Github hemsida
+- Skapa ett nytt repository från Github hemsida
+- Gör repository publikt
 - Namnge repositoryt
+
