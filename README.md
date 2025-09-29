@@ -1,4 +1,4 @@
-# Alyo
+# Alyssa Yodkaew
 ### Det här är mitt första Github repository
 
 - Skapa ett konto i Github
